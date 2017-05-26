@@ -1,0 +1,4 @@
+EnviarCorreo.Nativo.MainActivity, EnviarCorreo.Nativo;md5229c68d8dc1165f0a30f9c9375190d9e.MainActivity
+EnviarCorreo.Nativo.MainActivity, EnviarCorreo.Nativo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5229c68d8dc1165f0a30f9c9375190d9e.MainActivity
+EnviarCorreo.Nativo.MainActivity;md5229c68d8dc1165f0a30f9c9375190d9e.MainActivity
+enviarcorreo.nativo.MainActivity;md5229c68d8dc1165f0a30f9c9375190d9e.MainActivity
